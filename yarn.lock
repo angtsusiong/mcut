@@ -307,6 +307,13 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@nebular/theme@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@nebular/theme/-/theme-3.0.0.tgz#efb7ea15fb09db55b8a5dc94f583d017f8a47cd1"
+  integrity sha512-+Sjc6xmKmzi+/FkMMjh9Ohf5s9s0gTRU+uIkN+xEEPzbq4kyUn3vPxVtdYTQ/3AojdidSdfyObFyskgTW6YYJg==
+  dependencies:
+    intersection-observer "0.5.0"
+
 "@ngtools/webpack@7.0.6":
   version "7.0.6"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-7.0.6.tgz#cc4f4189765f6743417b4eee946fb69590f93ce1"
@@ -3350,6 +3357,11 @@ interpret@^1.0.0:
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
   integrity sha1-ftGxQQxqDg94z5XTuEQMY/eLhhQ=
 
+intersection-observer@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.5.0.tgz#9fe8bee3953c755b1485c38efd9633d535775ea6"
+  integrity sha512-8Zgt4ijlyvIrQVTA7MPb2W9+KhoetrAbxlh0RmTGxpx0+ZsAXvy7IsbNnZIrqZ6TddAdWeQj49x7Ph7Ir6KRkA==
+
 invariant@^2.2.2:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/invariant/-/invariant-2.2.4.tgz#610f3c92c9359ce1db616e538008d23ff35158e6"
@@ -5317,6 +5329,16 @@ preserve@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/preserve/-/preserve-0.2.0.tgz#815ed1f6ebc65926f865b310c0713bcb3315ce4b"
   integrity sha1-gV7R9uvGWSb4ZbMQwHE7yzMVzks=
+
+primeicons@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-1.0.0.tgz#90061f168ef6227f21f0a7db8204ffa85cd27aec"
+  integrity sha512-p/hzIjUVccW4eJPhuORHI3AUkDpqfvCQVrjxbFEejnTEdWY4C8fomVfjiaA9jCu83fSQnBHuRIGB96iAR8R6uA==
+
+primeng@^6.1.6:
+  version "6.1.6"
+  resolved "https://registry.yarnpkg.com/primeng/-/primeng-6.1.6.tgz#3a699a02507fcd5befb2fb9fe18fcc5d385f810e"
+  integrity sha512-9QYkXfBuSwx5zZej5QiEWhdAFJPc+f9h6PXuFtw4PzUfOhPmnoUxR5K04xeFreCNP13WwP3Uh/U3o7mY0PZtQA==
 
 process-nextick-args@~1.0.6:
   version "1.0.7"
