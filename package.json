@@ -22,6 +22,8 @@
     "@angular/platform-browser": "~7.0.0",
     "@angular/platform-browser-dynamic": "~7.0.0",
     "@angular/router": "~7.0.0",
+    "@nebular/auth": "^3.0.0",
+    "@nebular/security": "^3.0.0",
     "@nebular/theme": "^3.0.0",
     "core-js": "^2.5.4",
     "primeicons": "^1.0.0",
